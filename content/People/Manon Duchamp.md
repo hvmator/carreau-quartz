@@ -1,7 +1,4 @@
----
-dg-publish: "true"
----
-**Marie-Auguste Duchamp** ([maʁi-ɔɡyst dyʃɑ̃]) also known as **Manon Duchamp** (/maːˈnɔn/; May 23, 1905 — 1990) was a French menuisier, art forger, and con artist. They are known for their involvement in the [[Gabarre Train Heist of 1934]] and as the protegé and lover of [[Project CARREAU]], with whom they worked and lived from 1926 until Benoist's death in the 1940s. 
+**Marie-Auguste Duchamp** ([maʁi-ɔɡyst dyʃɑ̃]) also known as **Manon Duchamp** (/maːˈnɔn/; May 23, 1905 — 1990) was a French menuisier, art forger, and con artist. They are known for their involvement in the [[Gabarre Train Heist of 1934]] and as the protegé and lover of [[x]], with whom they worked and lived from 1926 until Benoist's death in the 1940s. 
 
 >[!infobox] Manon Duchamp
 >###### Born
@@ -22,7 +19,7 @@ dg-publish: "true"
 >Leo Duchamp (brother)
 >Etienne Duchamp (brother)
 >###### Notable partner(s)
->[[#Relationship with Howard William Sullivan| Howard William Sullivan]], [[Project CARREAU]], [[Elodie Frazier]], [[Victor Zaldívar]]
+>[[#Relationship with Howard William Sullivan| Howard William Sullivan]], [[x]], [[Elodie Frazier]], [[Victor Zaldívar]]
 
 # Life
 ## Early life
@@ -32,7 +29,7 @@ dg-publish: "true"
 ### Relationship with Howard William Sullivan
 that guy 
 ### Organized crime
-## Relationship with [[Project CARREAU]]
+## Relationship with [[x]]
 ### Gabarre Train Heist
 ### Death of Andy Benoist
 ## Later career
