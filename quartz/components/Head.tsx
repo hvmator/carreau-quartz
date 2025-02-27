@@ -123,7 +123,8 @@ export default (() => {
 
     const iconPath = joinSegments(baseDir, "static/icon.png")
 
-    const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
+    const ogImageDefaultPath =
+    // `https://${cfg.baseUrl}/static/og-image.png`
     // "static/social-images/slug-filename.md.webp"
     const ogImageGeneratedPath = `https://${cfg.baseUrl}/static/carreauimages/andyportrait1.jpeg`
 
