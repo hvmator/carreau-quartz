@@ -1,4 +1,4 @@
-**Marie-Auguste Duchamp** ([maʁi-ɔɡyst dyʃɑ̃]) also known as **Manon Duchamp** (/maːˈnɔn/; May 23, 1905 — 1990) was a French menuisier, art forger, and con artist. They are known for their involvement in the [[Gabarre Train Heist of 1934]] and as the protegé and lover of [[x]], with whom they worked and lived from 1926 until Benoist's death in the 1940s. 
+**Marie-Auguste Duchamp** ([maʁi-ɔɡyst dyʃɑ̃]) also known as **Manon Duchamp** (/maːˈnɔn/; May 23, 1905 — 1990) was a French menuisier, art forger, and con artist. They are known for their involvement in the [[Events/Gabarre Train Heist of 1934]] and as the protegé and lover of [[Andromache Benoist]], with whom they worked and lived from 1926 until Benoist's death in the 1940s. 
 
 >[!infobox] Manon Duchamp
 >###### Born
