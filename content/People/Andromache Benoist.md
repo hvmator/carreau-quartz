@@ -1,4 +1,4 @@
-**Andromache Benoist** (/ænˈdrɒməkiː bəˈnwɑː/ an-draa-muh-kee bə-NWAH, birth name unknown, born January 8, 1875) was an American con artist. She is believed to have participated in most of the largest-scale thefts of the early 20th century and to have stolen over ten million dollars in the total course of her career, which spanned nearly fifty years. She is portrayed in the lost film [[#Carreau (1976)]], a fictionalized adaptation of [[#Carreau (book)]], which details the events of the [[Events/Gabarre Train Heist of 1934]]. 
+**Andromache Benoist** (/ænˈdrɒməkiː bəˈnwɑː/ an-draa-muh-kee bə-NWAH, birth name unknown, born January 8, 1875) was an American con artist. She is believed to have participated in most of the largest-scale thefts of the early 20th century and to have stolen over ten million dollars in the total course of her career, which spanned nearly fifty years. She is portrayed in the lost film [[#Carreau (1976)]], a fictionalized adaptation of [[#Carreau (book)]], which details the events of the [[Gabarre Train Heist of 1934]]. 
 
 > [!NOTE]- Quick info: Andromache "Andy" Benoist 
 >![[/static/carreauimages/andyportrait1.jpeg]] 
