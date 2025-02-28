@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "https://carreau.netlify.app/",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    // defaultDateType: "created",
     generateSocialImages: false,
     theme: {
       fontOrigin: "googleFonts",
